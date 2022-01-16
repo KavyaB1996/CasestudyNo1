@@ -51,7 +51,7 @@ function myfunc()
 {  
     
 
-       window.location.href = "../home.html";
+    window.location.href = "../home.html";
  
 }
 
